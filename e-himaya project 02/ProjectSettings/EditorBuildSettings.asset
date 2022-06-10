@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: c9208958f05a37c499e1bce03c3ad0ca
+  - enabled: 1
+    path: Assets/Scenes/connaissance en cybersecurity.unity
+    guid: dfd30f78e3ef1714c9c25709c7800e14
+  - enabled: 1
+    path: Assets/Scenes/La protection des donnees personnelles.unity
+    guid: 9eac4acd900478749819926f0d699c03
+  - enabled: 1
+    path: Assets/Scenes/La protection des mots de passe.unity
+    guid: a0690b7dc2cffb3488b8788a757ac336
+  - enabled: 1
+    path: Assets/Scenes/Les reseaux sociaux.unity
+    guid: 0142a5b219a178e46b4fc68e07dab47e
+  m_configObjects: {}
